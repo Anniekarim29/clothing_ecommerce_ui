@@ -4,24 +4,24 @@ A beautifully designed **fashion e-commerce app UI** built with **Flutter**, sho
 
 This app is perfect for showcasing Gen-Z fashion like **hoodies** and **t-shirts** in a bold, luxurious UI.
 
----
+
 
 ## Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/spalshscreen.jpg" width="250"/>
-  <img src="assets/screenshots/homescreen.jpg" width="250"/>
-  <img src="assets/screenshots/home_tshirts.jpg" width="250"/>
+  <img src="assets/screenshots/spalshscreen.jpg" width="230"/>
+  <img src="assets/screenshots/homescreen.jpg" width="230"/>
+  <img src="assets/screenshots/home_tshirts.jpg" width="230"/>
   <br/><br/>
-  <img src="assets/screenshots/home_hoodies.jpg" width="250"/>
-  <img src="assets/screenshots/productdetails.jpg" width="250"/>
-  <img src="assets/screenshots/cart.jpg" width="250"/>
+  <img src="assets/screenshots/home_hoodies.jpg" width="230"/>
+  <img src="assets/screenshots/productdetails.jpg" width="230"/>
+  <img src="assets/screenshots/cart.jpg" width="230"/>
   <br/><br/>
-  <img src="assets/screenshots/productdetailss.jpg" width="250"/>
-  <img src="assets/screenshots/orders.jpg" width="250"/>
+  <img src="assets/screenshots/productdetailss.jpg" width="230"/>
+  <img src="assets/screenshots/orders.jpg" width="230"/>
 </div>
 
----
+
 
 ## Features
 
@@ -34,7 +34,7 @@ This app is perfect for showcasing Gen-Z fashion like **hoodies** and **t-shirts
 -  Checkout and Orders screen
 -  Gradient splash screen
 
----
+
 
 ##  Getting Started
 
