@@ -10,7 +10,7 @@ Whether you're building your first e-commerce app or seeking design inspiration,
 
 ## Screenshots
 
-<div align="center">
+<div align="left">
   <img src="assets/screenshots/spalshscreen.jpg" width="230"/>
   <img src="assets/screenshots/homescreen.jpg" width="230"/>
   <img src="assets/screenshots/home_tshirts.jpg" width="230"/>
