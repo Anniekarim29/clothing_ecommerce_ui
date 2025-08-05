@@ -1,0 +1,78 @@
+import '../models/product_model.dart';
+
+final List<ProductModel> dummyProducts = [
+  ProductModel(
+    id: '1',
+    title: 'Oversized Hoodie',
+    description: 'Comfy oversized hoodie with soft fleece lining.',
+    price: 49.99,
+    imageUrl: 'assets/images/hoodie1.png',
+    category: 'Hoodies',
+    sizes: ['S', 'M', 'L', 'XL'],
+  ),
+  ProductModel(
+    id: '2',
+    title: 'Graphic T-Shirt',
+    description: 'Trendy cotton tee with a front graphic print.',
+    price: 24.99,
+    imageUrl: 'assets/images/tshirt1.png',
+    category: 'T-Shirts',
+    sizes: ['S', 'M', 'L', 'XL'],
+  ),
+  ProductModel(
+    id: '3',
+    title: 'Oversized Hoodie',
+    description: 'Casual oversized hoodie perfect for layering.',
+    price: 59.99,
+    imageUrl: 'assets/images/hoodie2.png',
+    category: 'Hoodies',
+    sizes: ['M', 'L', 'XL'],
+  ),
+  ProductModel(
+    id: '4',
+    title: 'Boxy T-Shirt',
+    description: 'Minimal boxy tee in heavy-weight cotton.',
+    price: 29.99,
+    imageUrl: 'assets/images/tshirt2.png',
+    category: 'T-Shirts',
+    sizes: ['S', 'M', 'L'],
+  ),
+  ProductModel(
+    id: '5',
+    title: 'Graffiti Zip Hoodie',
+    description: 'Street-style graffiti zip-up hoodie with bold print and color block design.',
+    price: 37.99,
+    imageUrl: 'assets/images/hoodie5.png',
+    category: 'Hoodies',
+    sizes: ['S', 'M', 'L'],
+  ),
+  ProductModel(
+    id: '6',
+    title: 'Gradient Purple Hoodie',
+    description: 'Sleek gradient purple hoodie with a soft texture and minimal branding.',
+    price: 34.49,
+    imageUrl: 'assets/images/hoodie6.png',
+    category: 'Hoodies',
+    sizes: ['M', 'L', 'XL'],
+  ),
+
+ProductModel(
+id: '7',
+title: 'oversized T-Shirt',
+description: 'Sleek gradient soft material black graphic t shirt.',
+price: 34.00,
+imageUrl: 'assets/images/tshirt7.png',
+category: 'T-Shirts',
+sizes: ['M', 'L', 'XL'],
+),
+
+ProductModel(
+id: '8',
+title: 'oversized T-Shirt',
+description: 'Sleek gradient soft material black graphic t shirt.',
+price: 34.00,
+imageUrl: 'assets/images/tshirt8.png',
+category: 'T-Shirts',
+sizes: ['M', 'L', 'XL'],
+),
+];
